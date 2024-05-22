@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: paleturquoise;
+}
+.box{
+
+    width: 400px;
+    height: 200px;
+    background-color: skyblue;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-style: dashed;
+    
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.file{
+    margin-top: 40px;
+    margin-left: 20%;
+}
+label{
+    text-decoration: solid;
+    font-size: large;
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#upload{
+    margin: 37px;
+}
+
+/* This is file  */
+
+
+
+  
